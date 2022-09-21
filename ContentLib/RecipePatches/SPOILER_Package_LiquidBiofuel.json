@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/OilRefinery/Recipe_PackagedBiofuel.Recipe_PackagedBiofuel_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "item": "LiquidBiofuel",
+      "Amount": 2000
+    }
+  ],
+  "Products": [
+    {
+      "item": "PackagedBiofuel",
+      "Amount": 2
+    }
+  ]
+}

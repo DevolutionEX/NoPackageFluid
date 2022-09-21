@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/Packager/Recipe_PackagedSulfuricAcid.Recipe_PackagedSulfuricAcid_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "item": "SulfuricAcid",
+      "Amount": 2000
+    }
+  ],
+  "Products": [
+    {
+      "item": "PackagedSulfuricAcid",
+      "Amount": 2
+    }
+  ]
+}

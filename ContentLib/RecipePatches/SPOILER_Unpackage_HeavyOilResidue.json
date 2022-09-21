@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/OilRefinery/Recipe_UnpackageOilResidue.Recipe_UnpackageOilResidue_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "item": "PackagedOilResidue",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "item": "HeavyOilResidue",
+      "Amount": 2000
+    }
+  ]
+}

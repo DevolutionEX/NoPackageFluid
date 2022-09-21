@@ -1,0 +1,30 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "SemVersion": "1.0",
+  "FriendlyName": "Jimmon_NoPackageFluid",
+  "Description": "Lite Mod for ContentLib, removes the need for containers when packaging fluids",
+  "Category": "Modding",
+  "CreatedBy": "Jimmon",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Plugins": [
+    {
+      "Name": "SML",
+      "Enabled": true,
+      "SemVersion": "^3.3.0"
+    },
+    {
+      "Name": "ContentLib",
+      "Enabled": true,
+      "SemVersion": ">=0.2.0"
+    }
+  ]
+}

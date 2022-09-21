@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/Packager/Recipe_UnpackageAlumina.Recipe_UnpackageAlumina_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "item": "PackagedAlumina",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "item": "AluminaSolution",
+      "Amount": 2000
+    }
+  ]
+}

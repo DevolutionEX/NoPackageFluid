@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/OilRefinery/Recipe_PackagedWater.Recipe_PackagedWater_C
+{
+  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "Ingredients": [
+    {
+      "item": "Water",
+      "Amount": 2000
+    }
+  ],
+  "Products": [
+    {
+      "item": "PackagedWater",
+      "Amount": 2
+    }
+  ]
+}
