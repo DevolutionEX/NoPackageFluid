@@ -1,9 +1,9 @@
 //Game/FactoryGame/Recipes/OilRefinery/Recipe_UnpackageOil.Recipe_UnpackageOil_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
   "Ingredients": [
     {
-      "item": "PackagedOil",
+      "item": "Desc_PackagedOil",
       "Amount": 2
     }
   ],

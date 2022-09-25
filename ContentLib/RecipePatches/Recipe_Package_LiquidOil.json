@@ -1,15 +1,15 @@
 //Game/FactoryGame/Recipes/OilRefinery/Recipe_PackagedCrudeOil.Recipe_PackagedCrudeOil_C
 {
-  "$schema": "https://github.com/Nogg-aholic/ContentLib_Recipes/blob/master/FContentLib_Recipes.json",
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
   "Ingredients": [
     {
-      "item": "LiquidOil",
+      "item": "Desc_LiquidOil",
       "Amount": 2000
     }
   ],
   "Products": [
     {
-      "item": "PackagedOil",
+      "item": "Desc_PackagedOil",
       "Amount": 2
     }
   ]

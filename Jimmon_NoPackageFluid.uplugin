@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"SemVersion": "1.0.0",
+	"VersionName": "1.1.0",
+	"SemVersion": "1.1.0",
 	"FriendlyName": "Jimmon No Packages For Fluid",
 	"Description": "Lite Mod for ContentLib, removes the need for containers when packaging fluids",
 	"Category": "Modding",
