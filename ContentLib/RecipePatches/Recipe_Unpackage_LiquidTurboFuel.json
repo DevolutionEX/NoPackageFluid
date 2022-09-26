@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/OilRefinery/Recipe_UnpackageTurboFuel.Recipe_UnpackageTurboFuel_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Ingredients": [
+    {
+      "item": "Desc_TurboFuel",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "item": "Desc_LiquidTurboFuel",
+      "Amount": 2000
+    }
+  ]
+}
