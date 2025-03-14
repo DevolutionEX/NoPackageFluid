@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/Packager/Recipe_PackagedNitricAcid.Default__Recipe_PackagedNitricAcid_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Ingredients": [
+    {
+      "item": "Desc_NitricAcid",
+      "Amount": 2000
+    }
+  ],
+  "Products": [
+    {
+      "item": "Desc_PackagedNitricAcid",
+      "Amount": 2
+    }
+  ]
+}

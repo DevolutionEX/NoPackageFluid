@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/Packager/Recipe_UnpackageIonizedFuel.Default__Recipe_UnpackageIonizedFuel_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Ingredients": [
+    {
+      "item": "Desc_PackagedIonizedFuel",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "item": "Desc_IonizedFuel",
+      "Amount": 2000
+    }
+  ]
+}

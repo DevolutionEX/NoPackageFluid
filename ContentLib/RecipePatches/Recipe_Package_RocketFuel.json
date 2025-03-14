@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/Packager/Recipe_PackagedRocketFuel.Default__Recipe_PackagedRocketFuel_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Ingredients": [
+    {
+      "item": "Desc_RocketFuel",
+      "Amount": 2000
+    }
+  ],
+  "Products": [
+    {
+      "item": "Desc_PackagedRocketFuel",
+      "Amount": 2
+    }
+  ]
+}

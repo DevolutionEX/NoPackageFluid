@@ -1,0 +1,16 @@
+//Game/FactoryGame/Recipes/Packager/Recipe_UnpackageNitrogen.Default__Recipe_UnpackageNitrogen_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+  "Ingredients": [
+    {
+      "item": "Desc_PackagedNitrogenGas",
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "item": "Desc_NitrogenGas",
+      "Amount": 2000
+    }
+  ]
+}
